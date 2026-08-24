@@ -1,3 +1,8 @@
+# Generated embeddings and FAISS index
+embeddings/*.npy
+embeddings/*.pkl
+faiss/*.faiss
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
